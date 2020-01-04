@@ -1,8 +1,9 @@
 # Iris-Species-Machine-Learning
 To classify iris plants into three species in a given dataset
 
-# Dataset
-[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Iris)
+# Datasets & References
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Iris)
+- [Kaggles - Iris Species](https://www.kaggle.com/uciml/iris)
 
 ## Attribute Information
 1. sepal length in cm
