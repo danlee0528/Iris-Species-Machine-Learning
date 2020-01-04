@@ -34,3 +34,6 @@ To classify iris plants into three species in a given dataset
     - `jupyter notebook`
     - If facing notebook error such as "... no web browser found: could not  locate runnable browser.", type:
         - `jupyter notebook --no-browser`
+        
+# Conclusion
+- Using Petals over Sepal for training the data gives a much better accuracy which is reflected on the heatmap of correlation of features
