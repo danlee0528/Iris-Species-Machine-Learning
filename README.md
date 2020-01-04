@@ -1,4 +1,4 @@
-# Iris-Speieis-Machine-Learning
+# Iris-Species-Machine-Learning
 To classify iris plants into three species in a given dataset
 
 # Dataset
