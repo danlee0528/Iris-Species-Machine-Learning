@@ -23,7 +23,7 @@ To classify iris plants into three species in a given dataset
     2) To invoke the environment, type: 
         - `source env/bin/activate`
             - to deactivate, run: 
-                - `deactivate`
+               - `deactivate`
     3) To install required modules and their dependencies, type: 
         - `python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn seaborn`
         - To check your installation, type: 
@@ -31,3 +31,5 @@ To classify iris plants into three species in a given dataset
                - There should be no output and no error
 2. To fire up Jupyter, type: 
     - `jupyter notebook`
+    - If facing notebook error such as "... no web browser found: could not  locate runnable browser.", type:
+        - `jupyter notebook --no-browser`
